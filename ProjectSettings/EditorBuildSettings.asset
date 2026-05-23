@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NSDK_Testing.unity
     guid: bc782eaf0d75f8a41aadd198917ddb6b
+  - enabled: 0
+    path: Assets/Scenes/VPS_Test.unity
+    guid: 5cf9d23c6f970fb4e88bec97955a49e6
+  - enabled: 1
+    path: Assets/Scenes/RealVPS_Test.unity
+    guid: 2b7abdf9dbdc32344bd2463e973c81d0
   m_configObjects:
     NianticSpatial.NSDK.AR.AuthBuildSettings: {fileID: 11400000, guid: 946e16f4c6f025f4986a0cfba80570b3, type: 2}
     NianticSpatial.NSDK.AR.NsdkSettings: {fileID: 11400000, guid: edb3a98bc6ee9984ebb125ff6d1cfbfc, type: 2}

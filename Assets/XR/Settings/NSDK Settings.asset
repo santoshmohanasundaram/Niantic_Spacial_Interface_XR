@@ -33,9 +33,9 @@ MonoBehaviour:
     _headingAccuracy: 1
     _rawVector: {x: 0.1, y: 0.2, z: 0.3}
     _timestamp: 123456
-  _unityLogLevel: 3
-  _fileLogLevel: 5
-  _stdoutLogLevel: 5
+  _unityLogLevel: 2
+  _fileLogLevel: 2
+  _stdoutLogLevel: 2
   _nsdkSimulationParams:
     _useZBufferDepth: 1
   _devicePlaybackSettings:
