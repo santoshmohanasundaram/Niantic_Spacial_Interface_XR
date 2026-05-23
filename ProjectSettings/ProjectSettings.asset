@@ -147,6 +147,13 @@ PlayerSettings:
   - {fileID: 4800000, guid: b02d09082cbc14569ae46c12d9836abc, type: 3}
   - {fileID: 4800000, guid: 0f45334fa661448c886e4f99ba812a7e, type: 3}
   - {fileID: 4800000, guid: f40a6c94c8e1b494d93d434ae522a14f, type: 3}
+  - {fileID: 4800000, guid: b1d4c517492046e1a4e4cc49b0b73b42, type: 3}
+  - {fileID: 4800000, guid: 2b7e3540272684e0b8e12fed2c4609de, type: 3}
+  - {fileID: 11400000, guid: edb3a98bc6ee9984ebb125ff6d1cfbfc, type: 2}
+  - {fileID: -1071758805906863918, guid: 24940a606ec7db1489c83cd4e84248aa, type: 2}
+  - {fileID: -8152324055375348210, guid: 2a609baa2eecb694f89802d357686ee9, type: 2}
+  - {fileID: 4800000, guid: c9f956787b1d945e7b36e0516201fc76, type: 3}
+  - {fileID: 4800000, guid: 0945859e5a1034c2cb6dce53cb4fb899, type: 3}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -184,7 +191,7 @@ PlayerSettings:
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
-  ForceInternetPermission: 0
+  ForceInternetPermission: 1
   ForceSDCardPermission: 0
   CreateWallpaper: 0
   androidSplitApplicationBinary: 0
@@ -267,7 +274,7 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
-  AndroidTargetArchitectures: 2
+  AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
